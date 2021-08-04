@@ -45,7 +45,9 @@
 $ poetry install
 
 # pipで インストールする場合
-$ pip install -r requirements.txt
+$ python -m venv venv
+$ source venv/bin/activate
+(venv) $ pip install -r requirements.txt
 ```
 
 
@@ -64,5 +66,5 @@ $ pip install -r requirements.txt
 $ poetry run jupyter notebook
 
 # pipでパッケージのインストールをした場合
-$ jupyter notebook
+(venv) $ jupyter notebook
 ```
