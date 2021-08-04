@@ -1,6 +1,6 @@
 # Nishika16 2nd place solution
 - [Nishika リチウムイオン電池の充電率予測コンペ](https://www.nishika.com/competitions/16/summary) の最終submissionコードです。
-- 解法自体はこちらのディスカッションに記載しています。
+- 解法自体は[こちら](https://www.nishika.com/competitions/16/topics/134)のディスカッションに記載しています。
 
 
 # Directory Layout
