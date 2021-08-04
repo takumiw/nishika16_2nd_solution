@@ -56,7 +56,7 @@ $ source venv/bin/activate
 
 
 ## 学習、推論、submissionファイルの作成
-`preprocess.ipynb` を上から順に実行してください。学習を行なった後、submission.csv ファイルが作成されます。
+`final_submission.ipynb` を上から順に実行してください。学習を行なった後、submission.csv ファイルが作成されます。
 
 
 ## (参考) Jupyter Notebookの起動
